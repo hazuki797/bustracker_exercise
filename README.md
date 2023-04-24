@@ -1,8 +1,8 @@
 # bustracker_exercise
-The real-time bus tracker assignment was modified into a Disneyland Railroad Tracker, that shows the train looping through the 4 railroad stops within Disneyland. This project showcases the use of Mapbox API in integration of HTML, CSS, and JavaScript to create a dynamic experience for the user.
+The bus tracker assignment shows the bus stops between MIT and Harvard. This project showcases the use of Mapbox API in integration of HTML, CSS, and JavaScript to create a dynamic experience for the user.
 
 <h2>How to run:</h2> 
-Click on the button "Disneyland Railroad Stops" to start the train that stops at 4 stations. 
+Click on the button "Show stops from MIT to Harvard" to start the bus that stops at each of the bus stations between MIT and Harvard.
 
 <h2>Roadmap of future improvements:</h2>
 Potential future improvements include a more sophisticated tracker with more stops, multiple trackers running parellelly, and a customization feature for users to use their own API. 
