@@ -1,5 +1,5 @@
 # bustracker_exercise
-The bus tracker assignment shows the bus stops between MIT and Harvard. This project showcases the use of Mapbox API in integration of HTML, CSS, and JavaScript to create a dynamic experience for the user.
+The bus tracker project expertly displays the various bus stops that reside between the prestigious academic institutions of MIT and Harvard. Through the seamless integration of HTML, CSS, and JavaScript, this project effectively leverages the powerful Mapbox API, resulting in a dynamic and interactive user experience.
 
 <h2>How to run:</h2> 
 Click on the button "Show stops from MIT to Harvard" to start the bus that stops at each of the bus stations between MIT and Harvard.
